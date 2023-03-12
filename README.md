@@ -15,7 +15,7 @@
 
 ## Description
 
-This application creates a back end for an E-Commerce site using Express.js and Sequelize which interact with a MYSQL database using MYSQL2 package. View the walkthrough video for more information on creating the database and models + their associations. RESTful routes (tested with insomnia) are used in this application as well.  
+This application creates a back end for an E-Commerce site using Express.js and Sequelize which interact with a MYSQL database using MYSQL2. View the walkthrough video for more information on creating the database and models + their associations. RESTful routes (tested with insomnia) are used in this application as well.  
 
 ## Video Walkthrough
 
@@ -24,13 +24,13 @@ This application creates a back end for an E-Commerce site using Express.js and 
 
 ## Installation
 
-Please clone the repository from Github. 
-`npm i` to install necessary dependencies. 
+Please clone the repository from Github.    
+Type `npm i` in the command line to install necessary dependencies. 
   
 
 ## Usage instrutions
 
-Run the following command in the root directory of your project to start the server. 
+Run the following command in the root directory of your project to start the server:
   
 `node server.js`
 
