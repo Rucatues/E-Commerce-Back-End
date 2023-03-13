@@ -25,14 +25,14 @@ This application creates a back end for an E-Commerce site using Express.js and 
 ## Installation
 
 Please clone the repository from Github.    
-Type `npm i` in the command line to install necessary dependencies. 
+Type `npm i` in the command line to install necessary dependencies, including nodemon. 
   
 
 ## Usage instrutions
 
 Run the following command in the root directory of your project to start the server:
   
-`node server.js`
+`npm run watch`
 
 ## License
 
