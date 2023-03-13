@@ -19,7 +19,7 @@ This application creates a back end for an E-Commerce site using Express.js and 
 
 ## Video Walkthrough
 
-[Click here](pastelink) to view a video walkthrough of this application. 
+[Click here](https://drive.google.com/file/d/1nddPyA347rU6kKQNyBoBYBy0dqgo8y5J/view) to view a video walkthrough of this application. 
 
 
 ## Installation
