@@ -68,7 +68,7 @@ router.delete('/:id', async (req, res) => {
       return;
     }
 
-    res.status(200).json(categoryDelete);
+    res.status(200).json("Category Deleted");
   } catch (err) {
     res.status(500).json(err);
   }
